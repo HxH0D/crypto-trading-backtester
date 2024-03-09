@@ -1,0 +1,5 @@
+ta
+pandas
+pytz
+python-binance
+ccxt
