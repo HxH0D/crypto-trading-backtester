@@ -46,7 +46,7 @@ The project currently includes the parabolic SAR strategy. If you want to test i
 
 ## Contributions
 
-We look forward to your contributions! Please share suggestions and bugs in [issues](https://github.com/HxH0D/crypto-trading-backtester/issues).
+We look forward to your contributions! Please share suggestions and bugs in [issues](https://github.com/yealtun/crypto-trading-backtester/issues).
 
 ## Connect with me:
 <div align="center">
@@ -63,4 +63,4 @@ We look forward to your contributions! Please share suggestions and bugs in [iss
 
 ## License
 
-This project is licensed under the MIT license. See [LICENSE](https://github.com/HxH0D/crypto-trading-backtester/LICENSE.md) for more information.
+This project is licensed under the MIT license. See [LICENSE](https://github.com/yealtun/crypto-trading-backtester/LICENSE.md) for more information.
